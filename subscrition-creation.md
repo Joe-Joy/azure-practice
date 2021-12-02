@@ -15,12 +15,12 @@ You need the following permissions to create subscriptions:
 ## Create a subscription in the Azure portal
 
 1. Sign in to the [Azure portal](https://portal.azure.com).
-1. Search for **Subscriptions**.
+2. Search for **Subscriptions**.
 
 
 ![image](https://user-images.githubusercontent.com/42309948/144392408-8dc81d90-6b2b-409c-8e7a-8ddd6c30defa.png)
 
-
+3.select ADD
 ![image](https://user-images.githubusercontent.com/42309948/144392678-5807692c-686c-433c-9de6-524325f40745.png)
 
 
