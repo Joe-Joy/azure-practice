@@ -14,13 +14,13 @@ region southindia
 | 5 | Resource group | dodo-test-southindian-rg |
 | 6 | Resource group | dodo-prod-southindian-rg |
 | 8 | API service  | dodo-prod-southindian-apim |
-| 9 | Virtual network | dodo-prod-southindian-vnet-<numbers> |
-| 10 | Subnet  | dodo-prod-southindian-snet-<numbers> |
-| 11 | Network interface (NIC) | dodo-prod-southindian-nic-<numbers> |
+| 9 | Virtual network | dodo-prod-southindian-vnet-001 |
+| 10 | Subnet  | dodo-prod-southindian-snet-001 |
+| 11 | Network interface (NIC) | dodo-prod-southindian-nic-001 |
 | 12 | Public IP address  | dodo-prod-southindian-pip |
 | 13 | Load balancer | dodo-prod-southindian-lb |
-| 14 | Network security group (NSG) | dodo-prod-southindian-nsg-<numbers> |
-| 15 | Virtual network gateway | dodo-prod-southindian-vgw-<numbers> |
+| 14 | Network security group (NSG) | dodo-prod-southindian-nsg-001 |
+| 15 | Virtual network gateway | dodo-prod-southindian-vgw-001 |
 | 16 | Local network gateway | dodo-prod-southindian-lgw |
 | 17 | Site-to-Site connection | dodo-prod-southindian-lgw-to-dodo-prod-centralindia-vgw  |
 | 18 | VPN connection   | dodo-prod-southindian-cn-to-dodo-prod-centralindian-cn |
