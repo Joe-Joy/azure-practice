@@ -6,9 +6,9 @@ You need the following permissions to create subscriptions:
 
 |Billing account  |Permission  |
 |---------|---------|
-|Enterprise Agreement (EA) |  Account Owner role on the Enterprise Agreement enrollment. For more information, see [Understand Azure Enterprise Agreement administrative roles in Azure](understand-ea-roles.md).    |
-|Microsoft Customer Agreement (MCA) |  Owner or contributor role on the invoice section, billing profile or billing account. Or Azure subscription creator role on the invoice section.  For more information, see [Subscription billing roles and task](understand-mca-roles.md#subscription-billing-roles-and-tasks).    |
-|Microsoft Partner Agreement (MPA) |   Global Admin and Admin Agent role in the CSP partner organization. To learn more, see [Partner Center - Assign users roles and permissions](/partner-center/permissions-overview).  The user needs to sign to partner tenant to create Azure subscriptions.   |
+|Enterprise Agreement (EA) |  Account Owner role on the Enterprise Agreement enrollment. For more information, see https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/ea-portal-agreements.    |
+|Microsoft Customer Agreement (MCA) |  Owner or contributor role on the invoice section, billing profile or billing account. Or Azure subscription creator role on the invoice section.  For more information, see [Subscription billing roles and task](https://docs.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview
+|Microsoft Partner Agreement (MPA) |   Global Admin and Admin Agent role in the CSP partner organization. To learn more, see https://docs.microsoft.com/en-us/partner-center/microsoft-partner-agreement  The user needs to sign to partner tenant to create Azure subscriptions.   |
 
 
 
