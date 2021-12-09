@@ -1,12 +1,18 @@
 Azure network security group is used to filter network traffic to and from Azure resources in an Azure virtual network. A network security group contains security rules that allow or deny inbound network traffic to, or outbound network traffic from, several types of Azure resources. 
 
-NSGs are assigned o a network or a subnet
-When you assign a NSG to a subnet, the rules apply to all network interfaces in that subnet
-Each subnet and network interface can have one NSG applied to it
-NSG supports TCP,UDP and ICMP and operate at Layer 4 of the OSI model
-With NSGs, the connection are stateful (Return traffic is automatically allowed for the same TCP/UDP session)
-Several default security rules created by Azure within each NSG which cannot be removed but you can override them with the rules of higher priority
-You can add more rules by specifying Name, Priority, (100 to 4096- Lower # rule has higher priority ), port, Protocol, Source, Destination and Action
+> NSGs are assigned o a network or a subnet
+
+> When you assign a NSG to a subnet, the rules apply to all network interfaces in that subnet
+
+> Each subnet and network interface can have one NSG applied to it
+
+> NSG supports TCP,UDP and ICMP and operate at Layer 4 of the OSI model
+
+> With NSGs, the connection are stateful (Return traffic is automatically allowed for the same TCP/UDP session)
+
+> Several default security rules created by Azure within each NSG which cannot be removed but you can override them with the rules of higher priority
+
+> You can add more rules by specifying Name, Priority, (100 to 4096- Lower # rule has higher priority ), port, Protocol, Source, Destination and Action
 
 **Security rules:**
 A network security group contains zeroh, or as many rules as desired, within Azure subscription limits. Each rule specifies the following properties:
@@ -17,6 +23,8 @@ A network security group contains zeroh, or as many rules as desired, within Azu
 5. Direction - Whether the rule applies to inbound, or outbound traffic.
 6. Port range - You can specify an individual or range of ports. For example, you could specify 80 or 10000-10005. Specifying ranges enables you to create fewer security rules. Augmented security rules can oenly be created in network security groups created through the Resource Manager deployment model. You cannot specify multiple ports or port ranges in the same security rule in network security groups created through the classic deployment model.
 7. Action - Allow or deny
+
+
 
 
 **NSG Creation:**
