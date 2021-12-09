@@ -19,13 +19,48 @@ A network security group contains zeroh, or as many rules as desired, within Azu
 7. Action - Allow or deny
 
 
-NSG Creation:
+**NSG Creation:**
 
 1.
 ![image](https://user-images.githubusercontent.com/95157073/145434846-0a65be3d-2283-41c9-9712-2b18a57a338c.png)
 
 2.
 ![image](https://user-images.githubusercontent.com/95157073/145435437-dc4f6654-3fd5-43bc-875b-8515972009c1.png)
+
+Type in Search bar
+
+3.
+![image](https://user-images.githubusercontent.com/95157073/145435894-c2ac7b16-16d5-4381-8f92-9197c3900e2f.png)
+
+4.
+![image](https://user-images.githubusercontent.com/95157073/145436106-f5dc317a-d316-4144-bdd1-c824cfbcc763.png)
+Select Subscription and Resource group
+
+5.
+![image](https://user-images.githubusercontent.com/95157073/145436463-51ba2555-2225-44bc-b4a7-2a4d7dd62c24.png)
+
+Give a name to your NSG
+
+6.
+![image](https://user-images.githubusercontent.com/95157073/145436690-d5c06135-838a-4ba5-a894-4f6b5ec856e3.png)
+
+Add tags if needed
+
+7.
+![image](https://user-images.githubusercontent.com/95157073/145437383-c4685e2a-47e9-4d00-af7c-0379b0bcf845.png)
+
+8.
+![image](https://user-images.githubusercontent.com/95157073/145437487-b02f93a6-c753-4383-bbea-c80e2ccb60c8.png)
+
+9.
+![image](https://user-images.githubusercontent.com/95157073/145437570-8a178595-9a46-4773-b95d-d134b28ab9b4.png)
+
+Notice this status on right corner
+
+10.
+![image](https://user-images.githubusercontent.com/95157073/145437723-eaf7ba4d-e49c-464c-a564-c01e5663ce7e.png)
+
+
 
 
 `                                                                                                       `                                                                                                                                     `                                                           
