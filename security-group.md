@@ -68,6 +68,30 @@ Notice this status on right corner
 10.
 ![image](https://user-images.githubusercontent.com/95157073/145437723-eaf7ba4d-e49c-464c-a564-c01e5663ce7e.png)
 
+11.
+![image](https://user-images.githubusercontent.com/95157073/145452883-fdb28c79-0b48-4344-ac20-fae50e858732.png)
+
+12.
+![image](https://user-images.githubusercontent.com/95157073/145453565-53ac3222-dfd1-46be-9b99-46c91a38bddc.png)
+
+13.
+![image](https://user-images.githubusercontent.com/95157073/145453652-6cd24b56-615c-482d-9f86-9987a81f0131.png)
+
+Select "ADD" to add new inbound security rules
+
+14.
+![image](https://user-images.githubusercontent.com/95157073/145454212-78f9f44d-b6f5-4a29-9b43-f3a261031bd0.png)
+
+Select "ADD" to add new outbound security rules
+
+15.
+![image](https://user-images.githubusercontent.com/95157073/145454433-6b530a73-4a66-4477-923e-91569df453d5.png)
+
+16.
+
+
+
+
 
 
 
